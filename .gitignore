@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# AI session scaffolding - local only
+.claude/
+
+# Large / regenerable outputs
+data/
+*.pt
+*.pth
+outputs.zip
+
+# OS
+Thumbs.db
+.DS_Store
